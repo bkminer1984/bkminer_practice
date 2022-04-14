@@ -1,2 +1,3 @@
 # bkminer_practice
-This repository is for web development trainning.
+This repository purpose is only for web development trainning.
+Their is no any actual product or service here.
